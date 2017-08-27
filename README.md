@@ -1,2 +1,4 @@
 # micro-svc-demo-product
-miroc service product devmo
+
+micro-service product demo
+
